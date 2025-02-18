@@ -1,6 +1,6 @@
 # 🎨 HTML & CSS Developer Portfolio
 
-![Profile Banner](https://uploadnow.io/s/eafda6ad-9243-4578-8cab-8771f1cd6fdb)
+![Profile Banner](https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/SAekSLTgRbQtFUqar2ZTfl1ZtQh1/c9810265-3802-4d26-9d21-9aee31de44c3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e%2F20250218%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250218T101117Z&X-Amz-Expires=43200&X-Amz-Signature=d53082efbc9a2474961b42a47db98c53f42b74ca644728097510ef6cc28e1b61&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22IMG_4754.jpeg%22)
 
 ## 💻 About Me
 
